@@ -1,4 +1,5 @@
-# Test
+# Minor Projects
+
 Basic Device_Log Script and an Online Compiler
 
 Device_Log Script
